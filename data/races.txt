@@ -1,0 +1,3 @@
+00	human
+01	orc
+02	neutral

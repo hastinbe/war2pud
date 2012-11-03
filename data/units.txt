@@ -1,0 +1,100 @@
+00	footman
+01	grunt
+02	peasant
+03	peon
+04	ballista
+05	catapult
+06	knight
+07	ogre
+08	archer
+09	axethrower
+0a	mage
+0b	death knight
+0c	paladin
+0d	ogre-mage
+0e	dwarves
+0f	goblin sapper
+10	attack peasant
+11	attack peon
+12	ranger
+13	berserker
+14	alleria
+15	teron gorefiend
+16	kurdan and sky'ree
+17	dentarg
+18	khadgar
+19	grom hellscream
+1a	human tanker
+1b	orc tanker
+1c	human transport
+1d	orc transport
+1e	elven destroyer
+1f	troll destroyer
+20	battleship
+21	juggernaught
+23	deathwing
+26	gnomish submarine
+27	giant turtle
+28	gnomish flying machine
+29	goblin zepplin
+2a	gryphon rider
+2b	dragon
+2c	turalyon
+2d	eye of kilrogg
+2e	danath
+2f	khorgath bladefist
+31	cho'gall
+32	lothar
+33	gul'dan
+34	uther lightbringer
+35	zuljin
+37	skeleton
+38	daemon
+39	critter
+3a	farm
+3b	pig farm
+3c	human barracks
+3d	orc barracks
+3e	church
+3f	altar of storms
+40	human scout tower
+41	orc scout tower
+42	stables
+43	ogre mound
+44	gnomish inventor
+45	goblin alchemist
+46	gryphon aviary
+47	dragon roost
+48	human shipyard
+49	orc shipyard
+4a	town hall
+4b	great hall
+4c	elven lumber mill
+4d	troll lumber mill
+4e	human foundry
+4f	orc foundry
+50	mage tower
+51	temple of the damned
+52	human blacksmith
+53	orc blacksmith
+54	human refinery
+55	orc refinery
+56	human oil well
+57	orc oil well
+58	keep
+59	stronghold
+5a	castle
+5b	fortress
+5c	gold mine
+5d	oil patch
+5e	human start
+5f	orc start
+60	human guard tower
+61	orc guard tower
+62	human cannon tower
+63	orc cannon tower
+64	circle of power
+65	dark portal
+66	runestone
+67	human wall
+68	orc wall

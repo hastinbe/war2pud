@@ -1,0 +1,4 @@
+00	forest
+01	winter
+02	wasteland
+03	swamp

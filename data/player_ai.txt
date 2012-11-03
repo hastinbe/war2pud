@@ -1,0 +1,83 @@
+00	Land Attack
+01	Passive
+02	Orc 3
+03	Human 4
+04	Orc 4
+05	Human 5
+06	Orc 5
+07	Human 6
+08	Orc 6
+09	Human 7
+0A	Orc 7
+0B	Human 8
+0C	Orc 8
+0D	Human 9
+0E	Orc 9
+0F	Human 10
+10	Orc 10
+11	Human 11
+12	Orc 11
+13	Human 12
+14	Orc 12
+15	Human 13
+16	Orc 13
+17	Human 14 (Orange)
+18	Orc 14 (Blue)
+19	Sea Attack
+1a	Air Attack
+1b	Human 14 (Red)
+1c	Human 14 (White)
+1d	Human 14 (Black)
+1e	Orc 14 (Green)
+1f	Orc 14 (White)
+20	Expansion 1
+15	Expansion 2
+16	Expansion 3
+17	Expansion 4
+18	Expansion 5
+19	Expansion 6
+1a	Expansion 7
+1b	Expansion 8
+1c	Expansion 9
+1d	Expansion 10
+1e	Expansion 11
+1f	Expansion 12
+20	Expansion 13
+21	Expansion 14
+22	Expansion 15
+23	Expansion 16
+24	Expansion 17
+25	Expansion 18
+26	Expansion 19
+27	Expansion 20
+28	Expansion 21
+29	Expansion 22
+2a	Expansion 23
+2b	Expansion 24
+2c	Expansion 25
+2d	Expansion 26
+2e	Expansion 27
+2f	Expansion 28
+30	Expansion 29
+31	Expansion 30
+32	Expansion 31
+33	Expansion 32
+34	Expansion 33
+35	Expansion 34
+36	Expansion 35
+37	Expansion 36
+38	Expansion 37
+39	Expansion 38
+3a	Expansion 39
+3b	Expansion 40
+3c	Expansion 41
+3d	Expansion 42
+3e	Expansion 43
+3f	Expansion 44
+40	Expansion 45
+41	Expansion 46
+42	Expansion 47
+43	Expansion 48
+44	Expansion 49
+45	Expansion 50
+52	Expansion 51

@@ -1,0 +1,30 @@
+# Python bytecode files
+*.py[co]
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+# VIM swap files
+*.swp
+
+# setuptools components
+/build/
+/dist/
+*.egg-info
+
+# Sublime files
+*.sublime-project
+*.sublime-workspace
+
+War2xEd/
+*.pud

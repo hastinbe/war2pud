@@ -1,0 +1,52 @@
+00	sword 1
+01	sword 2
+02	axe 1
+03	axe 2
+04	arrow 1
+05	arrow 2
+06	spear 1
+07	spear 2
+08	human shield 1
+09	human shield 2
+0a	orc shield 1
+0b	orc shield 2
+0c	human ship cannon 1
+0d	human ship cannon 2
+0e	orc ship cannon 1
+0f	orc ship cannon 2
+10	human ship armor 1
+11	human ship armor 2
+12	orc ship armor 1
+13	orc ship armor 2
+14	catapult 1
+15	catapult 2
+16	ballista 1
+17	ballista 2
+18	train rangers
+19	longbow
+1a	ranger scouting
+1b	ranger marksmanship
+1c	train berserkers
+1d	lighter axes
+1e	berserker scouting
+1f	berserker regeneration
+20	train ogre-mages
+21	train paladins
+22	holy vision
+23	healing
+24	exorcism
+25	flame shield
+26	fireball
+27	slow
+28	invisibility
+29	polymorph
+2a	blizzard
+2b	eye of kilrogg
+2c	bloodlust
+2d	raise dead
+2e	death coil
+2f	whirlwind
+30	haste
+31	unholy armor
+32	runes
+33	death and decay
